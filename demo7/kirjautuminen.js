@@ -6,3 +6,7 @@ if (kirjautunut === 'kylla') {
     document.getElementById('tervetulo_teksti').textContent += ' Niilo!';
 }
 }
+
+function kirjaudu(){
+    localStorage.setItem()
+}
